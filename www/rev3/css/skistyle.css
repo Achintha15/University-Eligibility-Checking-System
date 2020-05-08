@@ -1,0 +1,81 @@
+
+
+body{
+	margin: 0;
+	font-family:  'Raleway', sans-serif;
+}
+.banner-home{
+	background-image: url("../images/24309-1b2gn8o.jpg");
+	height: 1000px;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	padding-top: 20px;
+	
+}
+
+.banner-home h1{
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 3em;
+	color: whitesmoke;
+	padding-top: 200px;
+	
+}
+
+h2{
+	text-align: center;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color : black;
+	display: block;
+	text-align: center;
+	background-color: teal;
+	margin-bottom: 5px;
+	padding : 10px;
+}
+nav ul li a:hover{
+	background-color: blue;
+}
+
+ 
+nav ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.image-one{
+	text-align: center;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

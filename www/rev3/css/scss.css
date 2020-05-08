@@ -1,0 +1,50 @@
+body {
+	 font-family: sans-serif;
+	font-size: 20px;
+	background-image: url("../images/home-bg.jpg")
+	
+}
+ .submission-form {
+	 max-width: 500px;
+	 margin: 2rem auto;
+	 border: 2px solid #e74c3c;
+	 padding: 2rem;
+	 border-radius: 15px;
+	 
+}
+ .submission-form label {
+	 display: block;
+	 padding: 1rem 0 2px ;
+	 text-transform: uppercase;
+	 font-size: 18px;
+	 border-radius: 15px;
+	 color:#D2A79E
+}
+ .submission-form input, .submission-form textarea {
+	 display: block;
+	 width: 96%;
+	 border: 2px solid #2980b9;
+	 padding: 0.5rem;
+	 font-size: 16px;
+	 border-radius: 15px;
+}
+
+label input[type="radio"] { vertical-align: text-bottom; }
+
+ #sendBtn {
+	 border: 0;
+	 background: #343050;
+	 padding: 0.5rem;
+	 color: white;
+	 margin: 1rem 0;
+	 width: 100%;
+	 text-transform: uppercase;
+	 cursor: pointer;
+	 transition: 0.3s background ease;
+	 border-radius: 30px;
+	 
+}
+ #sendBtn:hover {
+	 background: #3498db;
+}
+ 
